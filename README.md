@@ -1,5 +1,5 @@
 # earscan
-Execution After Redirect (EAR) zafiyetini barındıran sayfaları keşfedebilmek için kullanılabilecek küçük bir araç.
+Execution After Redirect (EAR) zafiyetini barındıran sayfaları tespit edebilmek için kullanılabilecek küçük bir araç.
 
 ![1](https://github.com/rk400/earscan/assets/155110459/91d64e6b-5139-4102-99d0-3b76a040a315)
 
